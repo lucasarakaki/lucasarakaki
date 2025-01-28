@@ -8,11 +8,9 @@
 <table>
   <tr>   
     <td>
-     Dados do Github
      <img alt="Lucas Takeshi Arakaki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasarakaki&show_icons=true&hide_border=true&theme=tokyonight" />
     </td>
     <td>
-     Linguagens mais usadas
      <img alt="Lucas Takeshi Arakaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarakaki&layout=compact&theme=tokyonight&title_color=268bd2" />
     </td>
   </tr>
