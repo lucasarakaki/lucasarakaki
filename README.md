@@ -4,10 +4,10 @@
   <table>
     <tr>   
       <td>
-        <img alt="Lucas Takeshi Arakaki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasarakaki&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+        <img alt="Lucas Takeshi Arakaki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasarakaki&show_icons=true&count_private=true&theme=tokyonight" />
       </td>
       <td>
-        <img alt="Lucas Takeshi Arakaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarakaki&hide_border=true&hide_progress=true&theme=tokyonight&count_private=true" />
+        <img alt="Lucas Takeshi Arakaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarakaki&count_private=true&hide_progress=true&theme=tokyonight" />
       </td>
     </tr>
   </table>
