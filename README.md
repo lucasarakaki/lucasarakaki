@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <table>
-    <tr>   
-      <td>
-        <img alt="Lucas Takeshi Arakaki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasarakaki&show_icons=true&count_private=true&theme=tokyonight" />
-      </td>
-      <td>
-        <img alt="Lucas Takeshi Arakaki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarakaki&count_private=true&hide_progress=true&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- Adicionando ícones de redes sociais -->
 
 <a href="https://www.instagram.com/_lucasarakaki/" target="_blank">
