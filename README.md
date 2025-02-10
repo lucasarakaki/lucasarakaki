@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasarakaki&show_icons=true&count-private=true&theme=tokyonight">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasarakaki&show_icons=true&include_all_commits=true&count-private=true&theme=tokyonight">
 
 <!-- Adicionando ícones de redes sociais -->
 
