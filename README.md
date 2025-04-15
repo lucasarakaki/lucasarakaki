@@ -12,10 +12,6 @@
   <img align="right" alt="Lucas Takeshi LinkedIn" src="https://img.shields.io/badge/-Linkedin-8257E5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:takeshioficial01@outlook.com" target="_blank">
-  <img align="right" alt="Lucas Takeshi Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-
 <br clear="left" />
 
 
