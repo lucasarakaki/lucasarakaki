@@ -1,23 +1,39 @@
-### Hi there 👋
+### Olá, eu sou o Lucas Takeshi! 👋
 
-<!-- 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasarakaki&show_icons=true&include_all_commits=true&count-private=true&theme=tokyonight">
+<p align="left">
+  <a href="https://www.linkedin.com/in/takeshi-lucas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@takeshioficial01" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://dev.to/takeshioficial" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarakaki&hide_progress=true&include_all_commits=true&count-private=true&theme=tokyonight)
+Sou um **Desenvolvedor Backend** com foco na construção e manutenção de APIs e sistemas robustos e eficientes. Minha paixão é transformar ideias em soluções funcionais, garantindo sempre a melhor performance e segurança.
 
-
-<a href="https://www.instagram.com/_lucasarakaki/" target="_blank">
-  <img align="right" alt="Lucas Takeshi Instagram" src="https://img.shields.io/badge/-Instagram-8257E5?style=flat&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/takeshi-lucas/" target="_blank">
-  <img align="right" alt="Lucas Takeshi LinkedIn" src="https://img.shields.io/badge/-Linkedin-8257E5?style=flat&logo=linkedin&logoColor=white" />
-</a>
-
-
-<br clear="left" />
--->
+Com uma base sólida em **Gestão da Tecnologia da Informação** e formação técnica em **Informática**, busco unir conhecimento acadêmico com a experiência prática para entregar resultados de alto impacto.
 
 ---
 
-Thanks for visiting my profile! 😄
+### 🚀 Principais Habilidades e Tecnologias
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,sqlite,git,docker,linux,bash,debian" />
+  </a>
+</p>
+
+* **Linguagem Principal:** `PHP`
+* **Framework:** `Laravel` para desenvolvimento ágil e escalável de APIs e sistemas web.
+* **Banco de Dados:** `MySQL, Postgres, sqlite`, com foco na modelagem, otimização de consultas e garantia da integridade dos dados.
+* **Integrações:** Experiência na manutenção de sistemas integrados com `Asterisk`, contribuindo para a automação de soluções de telefonia.
+* **Ferramentas:** `Git`, `Docker` e um bom conhecimento do ambiente `Linux`.
+
+---
+
+### 🌱 O que estou fazendo no momento
+
+Atualmente, estou focado em aprimorar minhas habilidades e explorar novas formas de otimizar a performance de aplicações backend. Estou sempre aberto a novos desafios e oportunidades para colaborar em projetos inovadores.
+
+---
+
+<div align="center">
+  <h3>Obrigado pela visita!</h3>
+</div>
