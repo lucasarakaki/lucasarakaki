@@ -28,12 +28,6 @@ Com uma base sólida em **Gestão da Tecnologia da Informação** e formação t
 
 ---
 
-### 🌱 O que estou fazendo no momento
-
-Atualmente, estou focado em aprimorar minhas habilidades e explorar novas formas de otimizar a performance de aplicações backend. Estou sempre aberto a novos desafios e oportunidades para colaborar em projetos inovadores.
-
----
-
 <div align="center">
   <h3>Obrigado pela visita!</h3>
 </div>
