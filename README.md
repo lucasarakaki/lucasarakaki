@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Takeshi! 👋
+<h3 align="left">Olá, eu sou o Lucas Takeshi!</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/takeshi-lucas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -6,39 +6,31 @@
   <a href="https://dev.to/takeshioficial" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 </p>
 
-**Desenvolvedor Backend** com foco na arquitetura, desenvolvimento e manutenção de APIs escaláveis e sistemas eficientes e seguros. Tenho interesse contínuo por boas práticas de desenvolvimento, automação de processos e melhoria contínua em ambientes de produção.
+**Desenvolvedor Backend** com experiência na construção e manutenção de sistemas escaláveis, seguros e de alta performance. Tenho foco em boas práticas, automação de processos e melhoria contínua em ambientes de produção.
 
-Possuo formação técnica em Informática e graduação em Gestão da Tecnologia da Informação, o que me permite aliar conhecimento prático e acadêmico na entrega de soluções robustas e orientadas ao negócio.
+Atuo principalmente com PHP, utilizando o framework Laravel para desenvolvimento de aplicações robustas e escaláveis. Tenho experiência com Eloquent ORM, Jobs e Queues, Event Broadcasting, Auth (incluindo OAuth, JWT e Sanctum), Request Validation, Service Providers e Boas práticas de organização de código com Service/Repository Pattern.
 
-Atualmente, concentro meus esforços em stacks baseadas em PHP (Laravel), bancos de dados relacionais como MySQL e PostgreSQL, além da utilização de Docker para ambientes isolados e reprodutíveis. Tenho me aprofundado no ecossistema Linux, buscando domínio em administração de sistemas, automações com shell script e otimização do ambiente de desenvolvimento.
+Trabalho com bancos de dados relacionais como MySQL e PostgreSQL, utilizando migrations, seeders, queries otimizadas e índices para garantir performance e integridade dos dados. Também integro Redis para cache, filas e sessões, melhorando a performance e escalabilidade dos sistemas.
+
+Utilizo Docker para criação de ambientes consistentes e reprodutíveis, além de ter familiaridade com versionamento via Git e CI/CD. Tenho experiência no consumo e integração de APIs REST, assim como na implementação de testes automatizados com PHPUnit, abrangendo testes unitários, de integração e de funcionalidade.
 
 ---
 
-### 🚀 Principais Habilidades e Tecnologias
+<h3>Habilidades Técnicas</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,bash,nodejs,js,html,css,mysql,postgres,sqlite,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,js,html,css,mysql,postgres,sqlite,redis,git,docker,linux" />
   </a>
 </p>
 
-- **Linguagem Principal:**  
-  Forte domínio em `PHP`, com foco em backend moderno e orientado a desempenho.
-
-- **Framework:**  
-  Desenvolvimento de APIs RESTful e sistemas web com `Laravel`, priorizando escalabilidade, segurança e manutenção.
-
-- **Bancos de Dados:**  
-  Experiência com `MySQL`, `PostgreSQL` e `SQLite`, com ênfase em modelagem relacional, performance e integridade dos dados.
-
-- **Telefonia IP:**  
-  Integração com `Asterisk` utilizando `PHPAGI`, desenvolvendo URAs, automações de chamadas e scripts customizados para comunicação entre sistemas.
-
-- **Ferramentas e Ambientes:**  
-  Versionamento com `Git`, ambientes isolados com `Docker`, e sólida experiência com sistemas `Linux` (especialmente Debian-based), otimizando o ciclo de desenvolvimento e deploy.
-
-- **Experiência Complementar:**  
-  Já atuei com `Node.js` em integrações e automações pontuais, o que ampliou minha visão sobre diferentes abordagens no backend.
+- **Linguagens e Frameworks:** PHP, JavaScript, Laravel e Symfony 
+- **Tecnologias Web:** HTML5, CSS3
+- **Bancos de Dados:** MySQL, MariaDB, Postgres, SQLite e Redis (Para trabalhar com cache)
+- **Testes:** PHPUnit e Pest
+- **Servidor Web:** Nginx, Apache e Caddy
+- **Ferramentas e Ambientes:** Docker, Git, GCloud, CI/CD e Linux
+- **Experiência Complementar:** Já atuei com `Node.js` em integrações e automações pontuais, o que ampliou minha visão sobre diferentes abordagens no backend.
 
 ---
 
